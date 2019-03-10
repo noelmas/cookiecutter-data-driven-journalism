@@ -4,9 +4,14 @@
 # Secret keys for APIs and such that you do not want to share
 keys.txt
 
-# Data (proprietary, personal information ... ) that should not be shared
-data/raw
+# By default don't upload data
+data
 
 
 # If use Jupyter Notebooks:
 notebooks/.ipynb_checkpoints
+
+# Some other Python related things
+.DS_Store
+*.pyc
+*.egg-info
