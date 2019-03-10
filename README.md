@@ -33,7 +33,6 @@ To begin a new data-driven journalism project, open a terminal, navigate to wher
 │   ├── interim
 │   ├── processed
 │   └── raw
-├── data-dictionary.md
 ├── viz
 ├── keys.txt
 ├── notebooks
