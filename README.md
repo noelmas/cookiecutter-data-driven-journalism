@@ -14,12 +14,10 @@ To begin a new data-driven journalism project, open a terminal, navigate to wher
 `cookiecutter gh:noelmas/cookiecutter-ddj`
 
 - `full_name`: e.g. `Jennifer A. Stark` (this will be used to populate the `AUTHORS` file)
-- `email`: e.g. `jastark1@gmail.com` (will populate the `AUTHORS` file)
-- `github_username`: e.g. `JAStark` (will populate the `AUTHORS` file)
+- `github_username`: e.g. `noelmas` (will populate the `AUTHORS` file)
 - `project_name`: the name of the published story for easy cross-referencing, or, if you don't know it yet, something relatable. This text will populate the `README` file.
 - `project_slug`: leave empty. It will create a project directory named using `project_name` with underscores automatically added between words.
 - `short_description`: a short description of the Project. This text will populate the `README.md`
-- `ddj_cookiecutter_version`: leave empty.
 - `date`: leave as-is.
 
 ## Project Structure
