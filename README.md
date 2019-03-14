@@ -1,6 +1,6 @@
 # DDJ
 
-A Cookiecutter template for Jupyter projects for data-drien journalism tweaked and forked from [JAStark's](https://github.com/noelmas/cookiecutter-data-driven-journalism/commits?author=JAStark) original data dirven journalism template.
+A Cookiecutter template for Jupyter projects for data-drien journalism tweaked and forked from [JAStark's](https://github.com/noelmas/cookiecutter-data-driven-journalism/commits?author=JAStark) original data-driven journalism template.
 
 ## Requirements
 
