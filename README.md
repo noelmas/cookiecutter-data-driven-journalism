@@ -11,7 +11,7 @@ A Cookiecutter template for Jupyter projects for data-drien journalism tweaked a
 
 To begin a new data-driven journalism project, open a terminal, navigate to where you want the project to reside, and type:
 
-`cookiecutter gh:noelmas/cookiecutter-ddj`
+`cookiecutter gh:noelmas/cookiecutter-data-driven-journalism`
 
 - `full_name`: e.g. `Jennifer A. Stark` (this will be used to populate the `AUTHORS` file)
 - `github_username`: e.g. `noelmas` (will populate the `AUTHORS` file)
