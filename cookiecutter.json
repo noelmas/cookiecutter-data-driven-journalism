@@ -1,6 +1,7 @@
 {
   "full_name": "your full name",
   "github_username": "your github user name",
+  "email": "your email",
   "project_name": "story title or something similar",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
   "short_description": "Story on the rise and fall of civilisation",
