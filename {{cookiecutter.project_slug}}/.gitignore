@@ -7,9 +7,12 @@ keys.txt
 # By default don't upload data
 data
 
+# If using scripts
+scripts/__pycache__
 
 # If use Jupyter Notebooks:
 notebooks/.ipynb_checkpoints
+notebooks/__pycache__
 
 # Some other Python related things
 .DS_Store
