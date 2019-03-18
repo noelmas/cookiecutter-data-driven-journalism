@@ -5,7 +5,6 @@
   "project_name": "story title or something similar",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
   "short_description": "Story on the rise and fall of civilisation",
-  "internal_readme_link": "Google Drive link to project overview",
   "date": "{% now 'local', '%a, %d %b %Y' %}",
   "_extensions": ["jinja2_time.TimeExtension"]
 }
