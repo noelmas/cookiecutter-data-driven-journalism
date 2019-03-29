@@ -22,4 +22,4 @@
 
 ## License
 
-This work is published under the [Creative Commons ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+MIT. See `LICENSE`.
