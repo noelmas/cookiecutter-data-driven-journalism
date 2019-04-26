@@ -36,6 +36,7 @@ To begin a new data-driven journalism project, open a terminal, navigate to wher
 ├── notebooks
 └── requirements.txt
 └── LICENSE
+```
 
 ## Licence
 
